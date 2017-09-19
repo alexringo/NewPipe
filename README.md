@@ -50,14 +50,16 @@ NewPipe does not use any Google framework libraries, or the YouTube API. It only
 * Watch videos from a channel
 * Orbot/Tor support (not yet directly)
 * 1080p/2k/4k support
+* View history
+* Subscribe to channels
+* Search history
+* Search/Watch Playlists
 
 ### Coming Features
 
+* Multiservice support (eg. Soundcloud)
 * Bookmarks
-* View history
-* Search history
-* Subscribe to channels
-* Search/Watch Playlists
+* Watch as queues Playlists
 * Queuing videos
 * Subtitles support
 * livestream support
